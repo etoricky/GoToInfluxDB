@@ -1,3 +1,10 @@
+setup
+=====
+
+    GOPATH to C:\Users\ricky\go
+    go get github.com/influxdata/influxdb/client/v2
+
+
 main.go
 =======
 
